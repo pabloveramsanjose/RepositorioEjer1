@@ -1,6 +1,6 @@
 package agenda;
 
-public class Contactos {
+public class Contacto {
 
     private String nombre;
     private String telefono;
